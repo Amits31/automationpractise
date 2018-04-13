@@ -13,7 +13,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 3767699924,
+  "duration": 4158755229,
   "status": "passed"
 });
 formatter.scenario({
@@ -54,14 +54,14 @@ formatter.match({
   "location": "ProductCategory.navigate_to_application()"
 });
 formatter.result({
-  "duration": 19208959820,
+  "duration": 26896247160,
   "status": "passed"
 });
 formatter.match({
   "location": "ProductCategory.user_click_on_dress_navigation_menu()"
 });
 formatter.result({
-  "duration": 7741286094,
+  "duration": 8205899209,
   "status": "passed"
 });
 formatter.match({
@@ -74,18 +74,18 @@ formatter.match({
   "location": "ProductCategory.click_on_sort_by_price_lowest_first_filter(String)"
 });
 formatter.result({
-  "duration": 361355074,
+  "duration": 465065239,
   "status": "passed"
 });
 formatter.match({
   "location": "ProductCategory.verify_product_is_filtered_according_to_price()"
 });
 formatter.result({
-  "duration": 206028850,
+  "duration": 228956956,
   "status": "passed"
 });
 formatter.after({
-  "duration": 754116780,
+  "duration": 786969450,
   "status": "passed"
 });
 });

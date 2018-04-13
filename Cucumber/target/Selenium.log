@@ -1,22 +1,24 @@
-2018-04-02 13:50:17 [INFO ] [TestBase] - [getBrowserObject] Chrome
-2018-04-02 13:50:21 [INFO ] [TestBase] - [before] Chrome
-2018-04-02 13:50:43 [INFO ] [WaitHelper] - [waitForElement] element found...Sign in
-2018-04-02 13:50:43 [INFO ] [LoginPage] - [clickOnSignInLink] clicked on sign in link...
-2018-04-02 13:50:47 [INFO ] [LoginPage] - [enterEmailAddress] entering email address....amit@
-2018-04-02 13:50:47 [INFO ] [LoginPage] - [clickOnCreateAnAccount] Click on create an account
-2018-04-02 13:50:49 [INFO ] [LoginPage] - [verifyInvalidEmail] Error message verified successfully
-2018-04-02 13:50:49 [INFO ] [LoginToAutomationPractices] - [enter_email_address_as] Email address is entered in textbox
-2018-04-02 13:50:49 [INFO ] [LoginPage] - [enterEmailAddress] entering email address....amit.shpkr@gmail.com
-2018-04-02 13:50:49 [INFO ] [LoginPage] - [clickOnCreateAnAccount] Click on create an account
-2018-04-02 13:50:49 [INFO ] [LoginToAutomationPractices] - [click_on_create_an_account] Clicked on create account link successfully
-2018-04-02 13:50:49 [INFO ] [TestBase] - [after] driver closed
-2018-04-02 13:51:14 [INFO ] [TestBase] - [getBrowserObject] Chrome
-2018-04-02 13:51:18 [INFO ] [TestBase] - [before] Chrome
-2018-04-02 13:51:37 [INFO ] [WaitHelper] - [waitForElement] element found...DRESSES
-2018-04-02 13:51:37 [INFO ] [ProductCategory] - [user_click_on_dress_navigation_menu] clicking on dress menu
-2018-04-02 13:51:37 [INFO ] [HomePage] - [clickOnMenu] clicked on : DRESSES
-2018-04-02 13:51:45 [INFO ] [WaitHelper] - [waitForElement] element found...CATALOG
-2018-04-02 13:51:45 [INFO ] [ProductCategoryPage] - [sortByPrice] Selecting sort by price :Price: Lowest first
-2018-04-02 13:51:45 [INFO ] [ProductCategoryPage] - [verifySortByFilter] Price sorted in ascending order i.e. price lowest first
-2018-04-02 13:51:45 [INFO ] [ProductCategory] - [verify_product_is_filtered_according_to_price] Verify sort by price successfully
-2018-04-02 13:51:45 [INFO ] [TestBase] - [after] driver closed
+2018-04-13 22:34:19 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-04-13 22:34:20 [INFO ] [TestBase] - [after] driver closed
+2018-04-13 22:35:02 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-04-13 22:35:07 [INFO ] [TestBase] - [before] Chrome
+2018-04-13 22:35:36 [INFO ] [WaitHelper] - [waitForElement] element found...Sign in
+2018-04-13 22:35:36 [INFO ] [LoginPage] - [clickOnSignInLink] clicked on sign in link...
+2018-04-13 22:35:40 [INFO ] [LoginPage] - [enterEmailAddress] entering email address....amit@
+2018-04-13 22:35:41 [INFO ] [LoginPage] - [clickOnCreateAnAccount] Click on create an account
+2018-04-13 22:35:42 [INFO ] [LoginPage] - [verifyInvalidEmail] Error message verified successfully
+2018-04-13 22:35:42 [INFO ] [LoginToAutomationPractices] - [enter_email_address_as] Email address is entered in textbox
+2018-04-13 22:35:42 [INFO ] [LoginPage] - [enterEmailAddress] entering email address....amit.shpkr@gmail.com
+2018-04-13 22:35:42 [INFO ] [LoginPage] - [clickOnCreateAnAccount] Click on create an account
+2018-04-13 22:35:42 [INFO ] [LoginToAutomationPractices] - [click_on_create_an_account] Clicked on create account link successfully
+2018-04-13 22:35:42 [INFO ] [TestBase] - [after] driver closed
+2018-04-13 22:35:59 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2018-04-13 22:36:03 [INFO ] [TestBase] - [before] Chrome
+2018-04-13 22:36:30 [INFO ] [WaitHelper] - [waitForElement] element found...DRESSES
+2018-04-13 22:36:30 [INFO ] [ProductCategory] - [user_click_on_dress_navigation_menu] clicking on dress menu
+2018-04-13 22:36:30 [INFO ] [HomePage] - [clickOnMenu] clicked on : DRESSES
+2018-04-13 22:36:39 [INFO ] [WaitHelper] - [waitForElement] element found...CATALOG
+2018-04-13 22:36:39 [INFO ] [ProductCategoryPage] - [sortByPrice] Selecting sort by price :Price: Lowest first
+2018-04-13 22:36:39 [INFO ] [ProductCategoryPage] - [verifySortByFilter] Price sorted in ascending order i.e. price lowest first
+2018-04-13 22:36:39 [INFO ] [ProductCategory] - [verify_product_is_filtered_according_to_price] Verify sort by price successfully
+2018-04-13 22:36:39 [INFO ] [TestBase] - [after] driver closed
